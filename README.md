@@ -4,4 +4,6 @@ with npm installed, just type:
 npx coolrack
 ``` 
 
-<p align="center"> <img src="./coolrack.png" alt="cmdline" width="200"/> </p>
+<p align="center">
+  <img src="./coolrack.png" alt="cmdline" width="600"/>
+</p>
